@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: #007bff;
+  border-radius: 3px;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.count {
+  color: #c20a72;
+}
